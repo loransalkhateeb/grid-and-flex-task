@@ -1,0 +1,29 @@
+.parent1{
+    background-color: blanchedalmond;
+    height: 600px;
+    display: flex;
+   justify-content: center;
+   padding-top: 40px;
+}
+.parent2{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    align-items: start;
+    border-radius: 60px;
+    width: 600px;
+    height: 450px;
+    padding-left: 20px;
+    padding-top: 30px;
+}
+.parent3{
+    display: flex;
+    flex-direction: row;
+    padding-left: 10px;
+}
+
+.parent5{
+    display: flex;
+    flex-direction: row;
+    padding-left: 10px;
+}
